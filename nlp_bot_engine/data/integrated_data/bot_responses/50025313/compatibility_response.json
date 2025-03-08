@@ -1,0 +1,31 @@
+{
+    "product_id": "50025313",
+    "command": "-c",
+    "timestamp": "2025-03-05T23:53:41.377738",
+    "product_name": "Produkt 50025313",
+    "has_compatibility_info": true,
+    "compatibility_groups": {
+        "Passar till": [
+            {
+                "relation_type": "fits",
+                "related_product": "PE6GEB, PE6TEA PE6TJ\n\n• *ARTICLE INFORMATION:** Art",
+                "numeric_ids": [],
+                "context": "![](_page_0_Picture_1.jpeg) ## Housegard fordonshållare till 6 kg pulversläckare, PEB6GE ![](_page_0_Picture_3.jpeg) Passar till PE6GEB, PE6TEA PE6TJ • *ARTICLE INFORMATION:** Art.no: 600054 EAN: 7320896000544 E-nummer: 1693269 ![](_page_0_Picture_6.jpeg) ![](_page_0_Picture_8.jpeg) • *Page 1/2** ## Housegard fordonshållare",
+                "confidence": 0.8,
+                "source_text": "![](_page_0_Picture_1.jpeg) ## Housegard fordonshållare till 6 kg pulversläckare, PEB6GE ![](_page_0_Picture_3.jpeg) Passar till PE6GEB, PE6TEA PE6TJ • *ARTICLE INFORMATION:** Art.no: 600054 EAN: 7320896000544 E-nummer: 1693269 ![](_page_0_Picture_6.jpeg) ![](_page_0_Picture_8.jpeg) • *Page 1/2** ## Housegard fordonshållare",
+                "source_location": "",
+                "extracted_method": "regex"
+            }
+        ]
+    },
+    "related_products": [
+        {
+            "related_product_id": null,
+            "relation_type": "fits",
+            "name": "PE6GEB, PE6TEA PE6TJ\n\n• *ARTICLE INFORMATION:** Art",
+            "numeric_ids": [],
+            "notes": "![](_page_0_Picture_1.jpeg) ## Housegard fordonshållare till 6 kg pulversläckare, PEB6GE ![](_page_0_Picture_3.jpeg) Passar till PE6GEB, PE6TEA PE6TJ • *ARTICLE INFORMATION:** Art.no: 600054 EAN: 7320896000544 E-nummer: 1693269 ![](_page_0_Picture_6.jpeg) ![](_page_0_Picture_8.jpeg) • *Page 1/2** ## Housegard fordonshållare"
+        }
+    ],
+    "markdown_response": "# Kompatibilitetsinformation för Produkt 50025313\n\n**Artikelnummer:** 50025313\n**EAN:** 7320896000544, 43131495\n\n## Passar till\n\n- PE6GEB, PE6TEA PE6TJ\n\n• *ARTICLE INFORMATION:** Art\n"
+}

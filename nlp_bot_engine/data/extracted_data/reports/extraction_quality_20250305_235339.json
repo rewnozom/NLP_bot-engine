@@ -1,0 +1,48 @@
+{
+  "timestamp": "20250305_235339",
+  "overall_coverage": {
+    "products_with_identifiers_pct": 66.66666666666666,
+    "products_with_specs_pct": 100.0,
+    "products_with_compat_pct": 100.0
+  },
+  "extraction_methods": {
+    "identifiers": {
+      "regex": 51
+    },
+    "specifications": {
+      "nlp_phrase_matcher": 38,
+      "nlp_entity": 22
+    },
+    "compatibility": {
+      "regex": 11,
+      "nlp_matcher": 2
+    }
+  },
+  "confidence_stats": {
+    "identifiers": {
+      "high": 2,
+      "medium": 49,
+      "low": 0
+    },
+    "specifications": {
+      "high": 0,
+      "medium": 60,
+      "low": 0
+    },
+    "compatibility": {
+      "high": 0,
+      "medium": 13,
+      "low": 0
+    }
+  },
+  "missing_data": [
+    {
+      "product_id": "50464764",
+      "product_name": "UPS Battery Box 24 V FLX M",
+      "missing": [
+        "identifiers"
+      ]
+    }
+  ],
+  "low_quality_products": []
+}

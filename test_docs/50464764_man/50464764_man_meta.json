@@ -1,0 +1,814 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UPS Battery Box 24 V FLX M",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.4970703125,
+          532.005859375
+        ],
+        [
+          383.55859375,
+          532.005859375
+        ],
+        [
+          383.55859375,
+          558.6315612792969
+        ],
+        [
+          66.4970703125,
+          558.6315612792969
+        ]
+      ]
+    },
+    {
+      "title": "Inneh\u00e5llsf\u00f6rteckning",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.42431640625,
+          71.8968505859375
+        ],
+        [
+          238.05078125,
+          71.8968505859375
+        ],
+        [
+          238.05078125,
+          94.4063720703125
+        ],
+        [
+          66.42431640625,
+          94.4063720703125
+        ]
+      ]
+    },
+    {
+      "title": "1. OM UPS BATTERIBOX",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.0398178100586,
+          336.7177734375
+        ],
+        [
+          270.0625,
+          336.7177734375
+        ],
+        [
+          270.0625,
+          358.9189453125
+        ],
+        [
+          68.0398178100586,
+          358.9189453125
+        ]
+      ]
+    },
+    {
+      "title": "1.1. Tillverkarens support",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          67.806640625,
+          418.73876953125
+        ],
+        [
+          239.21484375,
+          418.73876953125
+        ],
+        [
+          239.21484375,
+          436.2119140625
+        ],
+        [
+          67.806640625,
+          436.2119140625
+        ]
+      ]
+    },
+    {
+      "title": "1.2. Produktens livsl\u00e4ngd, milj\u00f6p\u00e5verkan och \u00e5tervinning",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          67.3701171875,
+          504.87109375
+        ],
+        [
+          444.08984375,
+          504.87109375
+        ],
+        [
+          444.08984375,
+          524.60546875
+        ],
+        [
+          67.3701171875,
+          524.60546875
+        ]
+      ]
+    },
+    {
+      "title": "2. DENNA BATTERIBOX PASSAR TILL F\u00d6LJANDE\nUPS:ER",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          67.9521484375,
+          76.162353515625
+        ],
+        [
+          472.609375,
+          76.162353515625
+        ],
+        [
+          472.609375,
+          120.4619140625
+        ],
+        [
+          67.9521484375,
+          120.4619140625
+        ]
+      ]
+    },
+    {
+      "title": "3. BATTERIER - PLACERING OCH INKOPPLING",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.031494140625,
+          248.32421875
+        ],
+        [
+          457.767578125,
+          248.32421875
+        ],
+        [
+          457.767578125,
+          271.34765625
+        ],
+        [
+          68.031494140625,
+          271.34765625
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Placering av batterier",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.02490234375,
+          304.85498046875
+        ],
+        [
+          241.251953125,
+          304.85498046875
+        ],
+        [
+          241.251953125,
+          322.53369140625
+        ],
+        [
+          68.02490234375,
+          322.53369140625
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Inkoppling batteribox med UPS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          66.7880859375,
+          72.8218994140625
+        ],
+        [
+          303.4564514160156,
+          72.8218994140625
+        ],
+        [
+          303.4564514160156,
+          90.9117431640625
+        ],
+        [
+          66.7880859375,
+          90.9117431640625
+        ]
+      ]
+    },
+    {
+      "title": "Tabell 2. Batterinummer",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          66.824462890625,
+          273.4033203125
+        ],
+        [
+          149.58203125,
+          273.4033203125
+        ],
+        [
+          149.58203125,
+          284.0927734375
+        ],
+        [
+          66.824462890625,
+          284.0927734375
+        ]
+      ]
+    },
+    {
+      "title": "4. TEKNISKA DATA UPS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          67.515625,
+          384.4091796875
+        ],
+        [
+          261.9140625,
+          384.4091796875
+        ],
+        [
+          261.9140625,
+          404.9658203125
+        ],
+        [
+          67.515625,
+          404.9658203125
+        ]
+      ]
+    },
+    {
+      "title": "5. TEKNISKA DATA KAPSLING",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          67.3701171875,
+          522.9609375
+        ],
+        [
+          315.4609375,
+          522.9609375
+        ],
+        [
+          315.4609375,
+          543.517578125
+        ],
+        [
+          67.3701171875,
+          543.517578125
+        ]
+      ]
+    },
+    {
+      "title": "5.1. Kapsling - Tekniska Data -UPS Battery box 24V FLX M",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          67.6611328125,
+          579.2861328125
+        ],
+        [
+          463.87890625,
+          579.2861328125
+        ],
+        [
+          463.87890625,
+          597.3759765625
+        ],
+        [
+          67.6611328125,
+          597.3759765625
+        ]
+      ]
+    },
+    {
+      "title": "6. BATTERIER",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          66.387939453125,
+          140.504638671875
+        ],
+        [
+          187.5595703125,
+          140.504638671875
+        ],
+        [
+          187.5595703125,
+          163.116943359375
+        ],
+        [
+          66.387939453125,
+          163.116943359375
+        ]
+      ]
+    },
+    {
+      "title": "6.1. Batterier ing\u00e5r ej",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          66.897216796875,
+          186.03759765625
+        ],
+        [
+          209.3857421875,
+          186.03759765625
+        ],
+        [
+          209.3857421875,
+          205.1552734375
+        ],
+        [
+          66.897216796875,
+          205.1552734375
+        ]
+      ]
+    },
+    {
+      "title": "6.2. 45 Ah, 12 V AGM-batteri",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          66.86083984375,
+          253.46337890625
+        ],
+        [
+          262.205078125,
+          253.46337890625
+        ],
+        [
+          262.205078125,
+          273.19775390625
+        ],
+        [
+          66.86083984375,
+          273.19775390625
+        ]
+      ]
+    },
+    {
+      "title": "Tabell 3. 10+ Design life* batteri",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          67.224609375,
+          340.0068359375
+        ],
+        [
+          173.736328125,
+          340.0068359375
+        ],
+        [
+          173.736328125,
+          350.6962890625
+        ],
+        [
+          67.224609375,
+          350.6962890625
+        ]
+      ]
+    },
+    {
+      "title": "7. UNDERH\u00c5LL",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          67.552001953125,
+          482.2587890625
+        ],
+        [
+          193.4764862060547,
+          482.2587890625
+        ],
+        [
+          193.4764862060547,
+          504.4599609375
+        ],
+        [
+          67.552001953125,
+          504.4599609375
+        ]
+      ]
+    },
+    {
+      "title": "7.1. Batterier",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          67.44287109375,
+          629.033203125
+        ],
+        [
+          155.40234375,
+          629.033203125
+        ],
+        [
+          155.40234375,
+          645.478515625
+        ],
+        [
+          67.44287109375,
+          645.478515625
+        ]
+      ]
+    },
+    {
+      "title": "7.2. Batteribyte",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.03148651123047,
+          239.279296875
+        ],
+        [
+          169.080078125,
+          239.279296875
+        ],
+        [
+          169.080078125,
+          257.7802734375
+        ],
+        [
+          68.03148651123047,
+          257.7802734375
+        ]
+      ]
+    },
+    {
+      "title": "7.3. Batteri\u00e5tervinning",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          67.406494140625,
+          459.646484375
+        ],
+        [
+          216.0791015625,
+          459.646484375
+        ],
+        [
+          216.0791015625,
+          476.9140625
+        ],
+        [
+          67.406494140625,
+          476.9140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "TableCell",
+          65
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          32
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464764_man"
+}

@@ -1,0 +1,120 @@
+{
+    "product_id": "50464764",
+    "command": "-c",
+    "timestamp": "2025-03-05T23:53:41.378742",
+    "product_name": "UPS Battery Box 24 V FLX M",
+    "has_compatibility_info": true,
+    "compatibility_groups": {
+        "Compatibility": [
+            {
+                "relation_type": "compatibility",
+                "related_product": "UPS:ER\n\n\n| UPS | Artikelnummer |",
+                "numeric_ids": [],
+                "context": "DENNA BATTERIBOX PASSAR TILL",
+                "confidence": 0.8,
+                "source_text": "DENNA BATTERIBOX PASSAR TILL",
+                "source_location": "",
+                "extracted_method": "nlp_matcher"
+            },
+            {
+                "relation_type": "compatibility",
+                "related_product": "rensa tidigare batterikapacitet",
+                "numeric_ids": [],
+                "context": "För att systemet skall mäta in nya batteriers kapacitet behöver enheten rensa tidigare batterikapacitet.",
+                "confidence": 0.8,
+                "source_text": "För att systemet skall mäta in nya batteriers kapacitet behöver enheten rensa tidigare batterikapacitet.",
+                "source_location": "",
+                "extracted_method": "nlp_matcher"
+            }
+        ],
+        "Passar till": [
+            {
+                "relation_type": "fits",
+                "related_product": "följande UPS:er 4 | |\n| 3",
+                "numeric_ids": [],
+                "context": "-----------------------|--| | 1.1. Tillverkarens support 3 | | | 1.2. Produktens livslängd, miljöpåverkan och återvinning 3 | | | 2. Denna batteribox passar till följande UPS:er 4 | | | 3. Batterier - placering och inkoppling 4 | | | 3.1. Placering av batterier 4 | | | 3.2. Inkoppling batteribox med UPS 5 | | | 4. Tekniska data UPS 6 |",
+                "confidence": 0.8,
+                "source_text": "-----------------------|--| | 1.1. Tillverkarens support 3 | | | 1.2. Produktens livslängd, miljöpåverkan och återvinning 3 | | | 2. Denna batteribox passar till följande UPS:er 4 | | | 3. Batterier - placering och inkoppling 4 | | | 3.1. Placering av batterier 4 | | | 3.2. Inkoppling batteribox med UPS 5 | | | 4. Tekniska data UPS 6 |",
+                "source_location": "",
+                "extracted_method": "regex"
+            },
+            {
+                "relation_type": "fits",
+                "related_product": "följande UPS:er \\[4\\]](#page-3-0) UPS:er denna batteribox passar till",
+                "numeric_ids": [],
+                "context": "| # 1. OM UPS BATTERIBOX Batteriboxen är gjord för två 45 Ah batterier och kan kopplas till UPS i FLX L kapsling. S[eDenna](#page-3-0) [batteribox passar till följande UPS:er \\[4\\]](#page-3-0) UPS:er denna batteribox passar till. #### 1.1. Tillverkarens support Tillverkare ger support under produktens livslängd, dock som längst 10 år efter inköpsdatum. Byte till likvärdig",
+                "confidence": 0.8,
+                "source_text": "| # 1. OM UPS BATTERIBOX Batteriboxen är gjord för två 45 Ah batterier och kan kopplas till UPS i FLX L kapsling. S[eDenna](#page-3-0) [batteribox passar till följande UPS:er \\[4\\]](#page-3-0) UPS:er denna batteribox passar till. #### 1.1. Tillverkarens support Tillverkare ger support under produktens livslängd, dock som längst 10 år efter inköpsdatum. Byte till likvärdig",
+                "source_location": "",
+                "extracted_method": "regex"
+            },
+            {
+                "relation_type": "fits",
+                "related_product": "FÖLJANDE UPS:ER\n\n\n| UPS | Artikelnummer |\n|---------------------------------|----------------|\n| SIN 600W FLX L | FL01U0021FP006 |\n| SIN 1100W FLX L | FL01U0031FP011 |\n| SIN 1500W FLX L | FL01U0031FP015 |\n| TEL-1200W-STS-SIN2* | 5144 |\n| *Säljs ej direkt av Milleteknik | |\n\n# 3",
+                "numeric_ids": [],
+                "context": "rmation. Kostnader som uppkommer i samband med återvinning ersätts ej. ![](_page_2_Picture_9.jpeg) # <span id=\"page-3-0\"></span>2. DENNA BATTERIBOX PASSAR TILL FÖLJANDE UPS:ER | UPS | Artikelnummer | |---------------------------------|----------------| | SIN 600W FLX L | FL01U0021FP006 | | SIN 1100W FLX L | FL01U0031FP011 | | SIN 1500W FLX L | FL01U0031FP015 | | TEL-1200W-STS-SIN2* | 5144 | | *Säljs ej direkt av Milleteknik | | # 3. BATTERIER - PLACERING OCH INKOPPLING ### 3.1. Placering av batterier ![](_page_3_Picture_4.jpeg) | Nr | Förklaring | |----|---------------------",
+                "confidence": 0.8,
+                "source_text": "rmation. Kostnader som uppkommer i samband med återvinning ersätts ej. ![](_page_2_Picture_9.jpeg) # <span id=\"page-3-0\"></span>2. DENNA BATTERIBOX PASSAR TILL FÖLJANDE UPS:ER | UPS | Artikelnummer | |---------------------------------|----------------| | SIN 600W FLX L | FL01U0021FP006 | | SIN 1100W FLX L | FL01U0031FP011 | | SIN 1500W FLX L | FL01U0031FP015 | | TEL-1200W-STS-SIN2* | 5144 | | *Säljs ej direkt av Milleteknik | | # 3. BATTERIER - PLACERING OCH INKOPPLING ### 3.1. Placering av batterier ![](_page_3_Picture_4.jpeg) | Nr | Förklaring | |----|---------------------",
+                "source_location": "",
+                "extracted_method": "regex"
+            }
+        ],
+        "Kräver": [
+            {
+                "relation_type": "requires",
+                "related_product": "enheten rensa tidigare batterikapacitet",
+                "numeric_ids": [],
+                "context": "tills batterier är laddade. Det kan ta upp till 72 timmar innan batterierna är fulladdade. • För att systemet skall mäta in nya batteriers kapacitet behöver enheten rensa tidigare batterikapacitet. Dip-switch 8 gör en mjukvaru-reset som bland annat nollställer larm. Se Återställning av data efter batteribyte, Dip-switch 8 • Testa systemet genom",
+                "confidence": 0.8,
+                "source_text": "tills batterier är laddade. Det kan ta upp till 72 timmar innan batterierna är fulladdade. • För att systemet skall mäta in nya batteriers kapacitet behöver enheten rensa tidigare batterikapacitet. Dip-switch 8 gör en mjukvaru-reset som bland annat nollställer larm. Se Återställning av data efter batteribyte, Dip-switch 8 • Testa systemet genom",
+                "source_location": "",
+                "extracted_method": "regex"
+            }
+        ]
+    },
+    "related_products": [
+        {
+            "related_product_id": null,
+            "relation_type": "compatibility",
+            "name": "UPS:ER\n\n\n| UPS | Artikelnummer |",
+            "numeric_ids": [],
+            "notes": "DENNA BATTERIBOX PASSAR TILL"
+        },
+        {
+            "related_product_id": null,
+            "relation_type": "compatibility",
+            "name": "rensa tidigare batterikapacitet",
+            "numeric_ids": [],
+            "notes": "För att systemet skall mäta in nya batteriers kapacitet behöver enheten rensa tidigare batterikapacitet."
+        },
+        {
+            "related_product_id": null,
+            "relation_type": "fits",
+            "name": "följande UPS:er 4 | |\n| 3",
+            "numeric_ids": [],
+            "notes": "-----------------------|--| | 1.1. Tillverkarens support 3 | | | 1.2. Produktens livslängd, miljöpåverkan och återvinning 3 | | | 2. Denna batteribox passar till följande UPS:er 4 | | | 3. Batterier - placering och inkoppling 4 | | | 3.1. Placering av batterier 4 | | | 3.2. Inkoppling batteribox med UPS 5 | | | 4. Tekniska data UPS 6 |"
+        },
+        {
+            "related_product_id": null,
+            "relation_type": "fits",
+            "name": "följande UPS:er \\[4\\]](#page-3-0) UPS:er denna batteribox passar till",
+            "numeric_ids": [],
+            "notes": "| # 1. OM UPS BATTERIBOX Batteriboxen är gjord för två 45 Ah batterier och kan kopplas till UPS i FLX L kapsling. S[eDenna](#page-3-0) [batteribox passar till följande UPS:er \\[4\\]](#page-3-0) UPS:er denna batteribox passar till. #### 1.1. Tillverkarens support Tillverkare ger support under produktens livslängd, dock som längst 10 år efter inköpsdatum. Byte till likvärdig"
+        },
+        {
+            "related_product_id": null,
+            "relation_type": "fits",
+            "name": "FÖLJANDE UPS:ER\n\n\n| UPS | Artikelnummer |\n|---------------------------------|----------------|\n| SIN 600W FLX L | FL01U0021FP006 |\n| SIN 1100W FLX L | FL01U0031FP011 |\n| SIN 1500W FLX L | FL01U0031FP015 |\n| TEL-1200W-STS-SIN2* | 5144 |\n| *Säljs ej direkt av Milleteknik | |\n\n# 3",
+            "numeric_ids": [],
+            "notes": "rmation. Kostnader som uppkommer i samband med återvinning ersätts ej. ![](_page_2_Picture_9.jpeg) # <span id=\"page-3-0\"></span>2. DENNA BATTERIBOX PASSAR TILL FÖLJANDE UPS:ER | UPS | Artikelnummer | |---------------------------------|----------------| | SIN 600W FLX L | FL01U0021FP006 | | SIN 1100W FLX L | FL01U0031FP011 | | SIN 1500W FLX L | FL01U0031FP015 | | TEL-1200W-STS-SIN2* | 5144 | | *Säljs ej direkt av Milleteknik | | # 3. BATTERIER - PLACERING OCH INKOPPLING ### 3.1. Placering av batterier ![](_page_3_Picture_4.jpeg) | Nr | Förklaring | |----|---------------------"
+        },
+        {
+            "related_product_id": null,
+            "relation_type": "requires",
+            "name": "enheten rensa tidigare batterikapacitet",
+            "numeric_ids": [],
+            "notes": "tills batterier är laddade. Det kan ta upp till 72 timmar innan batterierna är fulladdade. • För att systemet skall mäta in nya batteriers kapacitet behöver enheten rensa tidigare batterikapacitet. Dip-switch 8 gör en mjukvaru-reset som bland annat nollställer larm. Se Återställning av data efter batteribyte, Dip-switch 8 • Testa systemet genom"
+        }
+    ],
+    "markdown_response": "# Kompatibilitetsinformation för UPS Battery Box 24 V FLX M\n\n**Artikelnummer:** 50464764\n\n## Compatibility\n\n- UPS:ER\n\n\n| UPS | Artikelnummer |\n- rensa tidigare batterikapacitet\n\n## Passar till\n\n- följande UPS:er 4 | |\n| 3\n- följande UPS:er \\[4\\]](#page-3-0) UPS:er denna batteribox passar till\n- FÖLJANDE UPS:ER\n\n\n| UPS | Artikelnummer |\n|---------------------------------|----------------|\n| SIN 600W FLX L | FL01U0021FP006 |\n| SIN 1100W FLX L | FL01U0031FP011 |\n| SIN 1500W FLX L | FL01U0031FP015 |\n| TEL-1200W-STS-SIN2* | 5144 |\n| *Säljs ej direkt av Milleteknik | |\n\n# 3\n\n## Kräver\n\n- enheten rensa tidigare batterikapacitet\n"
+}

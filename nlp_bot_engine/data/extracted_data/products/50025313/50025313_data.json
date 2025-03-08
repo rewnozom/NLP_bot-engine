@@ -1,0 +1,135 @@
+{
+  "product_id": "50025313",
+  "file_path": "test_docs\\50025313_pro\\50025313_pro.md",
+  "filename": "50025313_pro.md",
+  "product_name": "Produkt 50025313",
+  "product_description": "• *ARTICLE INFORMATION:** Art.no: 600054 EAN: 7320896000544 E-nummer: 1693269",
+  "identifiers": [
+    {
+      "type": "EAN-13",
+      "value": "7320896000544",
+      "confidence": 0.9,
+      "source_text": "onshållare till 6 kg pulversläckare, PEB6GE ![](_page_0_Picture_3.jpeg) Passar till PE6GEB, PE6TEA PE6TJ • *ARTICLE INFORMATION:** Art.no: 600054 EAN: 7320896000544 E-nummer: 1693269 ![](_page_0_Picture_6.jpeg) ![](_page_0_Picture_8.jpeg) • *Page 1/2** ## Housegard fordonshållare till 6 kg pulversläckare, PEB",
+      "source_location": "",
+      "extracted_method": "regex",
+      "is_valid": true,
+      "validation_message": ""
+    },
+    {
+      "type": "EAN-8",
+      "value": "43131495",
+      "confidence": 0.9,
+      "source_text": "--------------|------------|--| | Statistiskt nummer | 8424908080 | | | E-nummer | 1693269 | | | EL-nr | 6209317 | | | Snro | 6411723 | | | Nobb-nr | 43131495 | | ## **Packaging information** | | EXKRT | PALL | ST | |--------------------|----------|-----------|---------------| | EAN kod | | | 73208960005",
+      "source_location": "",
+      "extracted_method": "regex",
+      "is_valid": true,
+      "validation_message": ""
+    },
+    {
+      "type": "ARTICLE_NUMBER",
+      "value": "1693269",
+      "confidence": 0.85,
+      "source_text": "g pulversläckare, PEB6GE ![](_page_0_Picture_3.jpeg) Passar till PE6GEB, PE6TEA PE6TJ • *ARTICLE INFORMATION:** Art.no: 600054 EAN: 7320896000544 E-nummer: 1693269 ![](_page_0_Picture_6.jpeg) ![](_page_0_Picture_8.jpeg) • *Page 1/2** ## Housegard fordonshållare till 6 kg pulversläckare, PEB6GE ## **Technic",
+      "source_location": "",
+      "extracted_method": "regex",
+      "is_valid": true,
+      "validation_message": ""
+    }
+  ],
+  "specifications": [
+    {
+      "category": "WEIGHT",
+      "name": "kg",
+      "raw_value": "6",
+      "unit": "GE",
+      "normalized_value": 6.0,
+      "confidence": 0.85,
+      "importance": "normal",
+      "source_text": "Housegard fordonshållare till 6 kg pulversläckare, PEB6GE\n\n\n!",
+      "source_location": "",
+      "extracted_method": "nlp_phrase_matcher"
+    },
+    {
+      "category": "DIMENSIONS",
+      "name": "Längd",
+      "raw_value": "540.000",
+      "unit": "",
+      "normalized_value": 540.0,
+      "confidence": 0.85,
+      "importance": "normal",
+      "source_text": "Snro | 6411723 | |\n| Nobb-nr | 43131495 | |\n\n## **Packaging information**\n\n\n| | EXKRT | PALL | ST |\n|--------------------|----------|-----------|---------------|\n| EAN kod | | | 7320896000544 |\n| Längd (mm) | 540.000 | 1200.000 | 440.000 |\n| Höjd (mm) | 380.000 | 850.000 | 160.000 |\n| Bredd (mm) | 240.000 | 800.000 | 120.000 |\n|",
+      "source_location": "",
+      "extracted_method": "nlp_phrase_matcher"
+    },
+    {
+      "category": "DIMENSIONS",
+      "name": "Höjd",
+      "raw_value": "380.000",
+      "unit": "",
+      "normalized_value": 380.0,
+      "confidence": 0.85,
+      "importance": "normal",
+      "source_text": "Snro | 6411723 | |\n| Nobb-nr | 43131495 | |\n\n## **Packaging information**\n\n\n| | EXKRT | PALL | ST |\n|--------------------|----------|-----------|---------------|\n| EAN kod | | | 7320896000544 |\n| Längd (mm) | 540.000 | 1200.000 | 440.000 |\n| Höjd (mm) | 380.000 | 850.000 | 160.000 |\n| Bredd (mm) | 240.000 | 800.000 | 120.000 |\n|",
+      "source_location": "",
+      "extracted_method": "nlp_phrase_matcher"
+    },
+    {
+      "category": "DIMENSIONS",
+      "name": "Bredd",
+      "raw_value": "240.000",
+      "unit": "",
+      "normalized_value": 240.0,
+      "confidence": 0.85,
+      "importance": "normal",
+      "source_text": "Snro | 6411723 | |\n| Nobb-nr | 43131495 | |\n\n## **Packaging information**\n\n\n| | EXKRT | PALL | ST |\n|--------------------|----------|-----------|---------------|\n| EAN kod | | | 7320896000544 |\n| Längd (mm) | 540.000 | 1200.000 | 440.000 |\n| Höjd (mm) | 380.000 | 850.000 | 160.000 |\n| Bredd (mm) | 240.000 | 800.000 | 120.000 |\n|",
+      "source_location": "",
+      "extracted_method": "nlp_phrase_matcher"
+    },
+    {
+      "category": "WEIGHT",
+      "name": "kg",
+      "raw_value": "26.05000",
+      "unit": "",
+      "normalized_value": 26.05,
+      "confidence": 0.85,
+      "importance": "normal",
+      "source_text": "Bruttovikt (kg) | 26.05000 | 332.60000 | 1.30000 |\n| Net Weight (kg) | 26.05000 | | 1.30000 |\n| Volym | 0.00000 | 0.00000 | 0.00246 |\n|",
+      "source_location": "",
+      "extracted_method": "nlp_phrase_matcher"
+    }
+  ],
+  "compatibility": [
+    {
+      "relation_type": "fits",
+      "related_product": "PE6GEB, PE6TEA PE6TJ\n\n• *ARTICLE INFORMATION:** Art",
+      "numeric_ids": [],
+      "context": "![](_page_0_Picture_1.jpeg) ## Housegard fordonshållare till 6 kg pulversläckare, PEB6GE ![](_page_0_Picture_3.jpeg) Passar till PE6GEB, PE6TEA PE6TJ • *ARTICLE INFORMATION:** Art.no: 600054 EAN: 7320896000544 E-nummer: 1693269 ![](_page_0_Picture_6.jpeg) ![](_page_0_Picture_8.jpeg) • *Page 1/2** ## Housegard fordonshållare",
+      "confidence": 0.8,
+      "source_text": "![](_page_0_Picture_1.jpeg) ## Housegard fordonshållare till 6 kg pulversläckare, PEB6GE ![](_page_0_Picture_3.jpeg) Passar till PE6GEB, PE6TEA PE6TJ • *ARTICLE INFORMATION:** Art.no: 600054 EAN: 7320896000544 E-nummer: 1693269 ![](_page_0_Picture_6.jpeg) ![](_page_0_Picture_8.jpeg) • *Page 1/2** ## Housegard fordonshållare",
+      "source_location": "",
+      "extracted_method": "regex"
+    }
+  ],
+  "content_sample": "![](_page_0_Picture_1.jpeg)\n\n## Housegard fordonshållare till 6 kg pulversläckare, PEB6GE\n\n\n![](_page_0_Picture_3.jpeg)\n\nPassar till PE6GEB, PE6TEA PE6TJ\n\n• *ARTICLE INFORMATION:** Art.no: 600054 EAN: 7320896000544 E-nummer: 1693269\n\n![](_page_0_Picture_6.jpeg)\n\n![](_page_0_Picture_8.jpeg)\n\n• *Page 1/2**\n\n## Housegard fordonshållare till 6 kg pulversläckare, PEB6GE\n\n\n## **Technical specifikation**\n\n\n| Tillverkningsland | Kina | |\n|--------------------|------------|--|\n| Statistiskt nummer | 8424908080 | |\n| E-nummer | 1693269 | |\n| EL-nr | 6209317 | |\n| Snro | 6411723 | |\n| Nobb-nr | 43131495 | |\n\n## **Packaging information**\n\n\n| | EXKRT | PALL | ST |\n|--------------------|----------|-----------|---------------|\n| EAN kod | | | 7320896000544 |\n| Längd (mm) | 540.000 | 1200.000 | 440.000 |\n| Höjd (mm) | 380.000 | 850.000 | 160.000 |\n| Bredd (mm) | 240.000 | 800.000 | 120.000 |\n| Bruttovikt (kg) | 26.05000 | 332.60000 | 1.30000 |\n| Net Weight (kg) | 26.05000 | | 1.30000 |\n| Volym | 0.000",
+  "metadata": {
+    "extraction_timestamp": "20250305_235339",
+    "sections": [
+      "full_content",
+      "Housegard fordonshållare till 6 kg pulversläckare, PEB6GE",
+      "Technical specifikation",
+      "Packaging information"
+    ],
+    "extraction_methods": {
+      "nlp_available": true,
+      "identifier_methods": {
+        "regex": 3
+      },
+      "specification_methods": {
+        "nlp_phrase_matcher": 5
+      },
+      "compatibility_methods": {
+        "regex": 1
+      }
+    }
+  }
+}

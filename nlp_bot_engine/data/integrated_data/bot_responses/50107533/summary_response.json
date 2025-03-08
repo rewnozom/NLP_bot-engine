@@ -1,0 +1,82 @@
+{
+    "product_id": "50107533",
+    "command": "-s",
+    "timestamp": "2025-03-05T23:53:41.382741",
+    "product_name": "V/P löser dina problem med spänningsfall",
+    "summary_data": {
+        "product_id": "50107533",
+        "generated_at": "20250305_235339",
+        "product_name": "V/P löser dina problem med spänningsfall",
+        "description": "Alarmtech har utvecklat nya strömförsörjningsenheter med unika egenskaper som löser många problem i en anläggning. **Några fördelar med VIP strömförsörjning:**",
+        "key_specifications": [
+            {
+                "category": "DIMENSIONS",
+                "name": "Dimension",
+                "value": "325x276x90 mm",
+                "unit": "mm"
+            },
+            {
+                "category": "DIMENSIONS",
+                "name": "Dimension",
+                "value": "345x325x130 mm",
+                "unit": "mm"
+            },
+            {
+                "category": "ELECTRICAL",
+                "name": "Volt",
+                "value": "2",
+                "unit": "st"
+            },
+            {
+                "category": "ELECTRICAL",
+                "name": "Volt",
+                "value": "1",
+                "unit": "st"
+            }
+        ],
+        "key_compatibility": [
+            {
+                "type": "fits",
+                "related_product": "följande PSV-modeller |\n|---------|-------------|---------|-----------------------------------|\n| FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 |\n| FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 |\n| FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 |\n| FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 |\n\n## Spänningsfall i ledningsnätet?\n\n\n![](_page_3_Picture_1",
+                "has_product_id": true,
+                "numeric_ids": [
+                    "20721",
+                    "5230060",
+                    "21202",
+                    "5230061",
+                    "21805",
+                    "5230062",
+                    "24207",
+                    "5230063"
+                ]
+            },
+            {
+                "type": "requires",
+                "related_product": "inte ändras\n## Behövs mer ström?\n\n\n![](_page_3_Picture_6",
+                "has_product_id": false,
+                "numeric_ids": []
+            }
+        ],
+        "identifiers": {
+            "ARTICLE_NUMBER": [
+                "5240068",
+                "5240067",
+                "5240001",
+                "5240002",
+                "5213168",
+                "5213169",
+                "5240041",
+                "5240042",
+                "5213170",
+                "5213171",
+                "5255012",
+                "5255013",
+                "5240000",
+                "5240064",
+                "5240065",
+                "5240069"
+            ]
+        }
+    },
+    "markdown_response": "# V/P löser dina problem med spänningsfall\n\n**Artikelnummer:** 50107533\n**ARTICLE_NUMBER:** 5240068, 5240067, 5240001, 5240002, 5213168, 5213169, 5240041, 5240042, 5213170, 5213171, 5255012, 5255013, 5240000, 5240064, 5240065, 5240069\n\nAlarmtech har utvecklat nya strömförsörjningsenheter med unika egenskaper som löser många problem i en anläggning. **Några fördelar med VIP strömförsörjning:**\n\n## Tekniska specifikationer\n\n- **Dimension:** 325x276x90 mm mm\n- **Dimension:** 345x325x130 mm mm\n- **Volt:** 2 st\n- **Volt:** 1 st\n\n## Kompatibilitet\n\n### Passar till\n\n- följande PSV-modeller |\n|---------|-------------|---------|-----------------------------------|\n| FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 |\n| FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 |\n| FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 |\n| FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 |\n\n## Spänningsfall i ledningsnätet?\n\n\n![](_page_3_Picture_1 (Art.nr: 20721)\n\n### Kräver\n\n- inte ändras\n## Behövs mer ström?\n\n\n![](_page_3_Picture_6\n"
+}

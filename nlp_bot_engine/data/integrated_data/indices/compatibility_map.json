@@ -1,0 +1,149 @@
+{
+  "50025313": [
+    {
+      "related_product": "PE6GEB, PE6TEA PE6TJ\n\n• *ARTICLE INFORMATION:** Art",
+      "relation_type": "fits",
+      "numeric_ids": []
+    }
+  ],
+  "PE6GEB, PE6TEA PE6TJ\n\n• *ARTICLE INFORMATION:** Art": [
+    {
+      "related_product": "50025313",
+      "relation_type": "compatible_with",
+      "numeric_ids": []
+    }
+  ],
+  "50464764": [
+    {
+      "related_product": "UPS:ER\n\n\n| UPS | Artikelnummer |",
+      "relation_type": "compatibility",
+      "numeric_ids": []
+    },
+    {
+      "related_product": "rensa tidigare batterikapacitet",
+      "relation_type": "compatibility",
+      "numeric_ids": []
+    },
+    {
+      "related_product": "följande UPS:er 4 | |\n| 3",
+      "relation_type": "fits",
+      "numeric_ids": []
+    },
+    {
+      "related_product": "följande UPS:er \\[4\\]](#page-3-0) UPS:er denna batteribox passar till",
+      "relation_type": "fits",
+      "numeric_ids": []
+    },
+    {
+      "related_product": "FÖLJANDE UPS:ER\n\n\n| UPS | Artikelnummer |\n|---------------------------------|----------------|\n| SIN 600W FLX L | FL01U0021FP006 |\n| SIN 1100W FLX L | FL01U0031FP011 |\n| SIN 1500W FLX L | FL01U0031FP015 |\n| TEL-1200W-STS-SIN2* | 5144 |\n| *Säljs ej direkt av Milleteknik | |\n\n# 3",
+      "relation_type": "fits",
+      "numeric_ids": []
+    },
+    {
+      "related_product": "enheten rensa tidigare batterikapacitet",
+      "relation_type": "requires",
+      "numeric_ids": []
+    }
+  ],
+  "följande UPS:er 4 | |\n| 3": [
+    {
+      "related_product": "50464764",
+      "relation_type": "compatible_with",
+      "numeric_ids": []
+    }
+  ],
+  "följande UPS:er \\[4\\]](#page-3-0) UPS:er denna batteribox passar till": [
+    {
+      "related_product": "50464764",
+      "relation_type": "compatible_with",
+      "numeric_ids": []
+    }
+  ],
+  "FÖLJANDE UPS:ER\n\n\n| UPS | Artikelnummer |\n|---------------------------------|----------------|\n| SIN 600W FLX L | FL01U0021FP006 |\n| SIN 1100W FLX L | FL01U0031FP011 |\n| SIN 1500W FLX L | FL01U0031FP015 |\n| TEL-1200W-STS-SIN2* | 5144 |\n| *Säljs ej direkt av Milleteknik | |\n\n# 3": [
+    {
+      "related_product": "50464764",
+      "relation_type": "compatible_with",
+      "numeric_ids": []
+    }
+  ],
+  "50108133": [
+    {
+      "related_product": "följande PSV-modeller |\n|---------|-------------|---------|-----------------------------------|\n| FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 |\n| FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 |\n| FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 |\n| FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 |\n\n## Spänningsfall i ledningsnätet?\n\n\n![](_page_3_Picture_1",
+      "relation_type": "fits",
+      "numeric_ids": [
+        "20721",
+        "5230060",
+        "21202",
+        "5230061",
+        "21805",
+        "5230062",
+        "24207",
+        "5230063"
+      ]
+    },
+    {
+      "related_product": "inte ändras\n## Behövs mer ström?\n\n\n![](_page_3_Picture_6",
+      "relation_type": "requires",
+      "numeric_ids": []
+    }
+  ],
+  "följande PSV-modeller |\n|---------|-------------|---------|-----------------------------------|\n| FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 |\n| FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 |\n| FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 |\n| FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 |\n\n## Spänningsfall i ledningsnätet?\n\n\n![](_page_3_Picture_1": [
+    {
+      "related_product": "50108133",
+      "relation_type": "compatible_with",
+      "numeric_ids": []
+    },
+    {
+      "related_product": "50107533",
+      "relation_type": "compatible_with",
+      "numeric_ids": []
+    },
+    {
+      "related_product": "50107532",
+      "relation_type": "compatible_with",
+      "numeric_ids": []
+    }
+  ],
+  "50107533": [
+    {
+      "related_product": "följande PSV-modeller |\n|---------|-------------|---------|-----------------------------------|\n| FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 |\n| FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 |\n| FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 |\n| FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 |\n\n## Spänningsfall i ledningsnätet?\n\n\n![](_page_3_Picture_1",
+      "relation_type": "fits",
+      "numeric_ids": [
+        "20721",
+        "5230060",
+        "21202",
+        "5230061",
+        "21805",
+        "5230062",
+        "24207",
+        "5230063"
+      ]
+    },
+    {
+      "related_product": "inte ändras\n## Behövs mer ström?\n\n\n![](_page_3_Picture_6",
+      "relation_type": "requires",
+      "numeric_ids": []
+    }
+  ],
+  "50107532": [
+    {
+      "related_product": "följande PSV-modeller |\n|---------|-------------|---------|-----------------------------------|\n| FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 |\n| FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 |\n| FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 |\n| FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 |\n\n## Spänningsfall i ledningsnätet?\n\n\n![](_page_3_Picture_1",
+      "relation_type": "fits",
+      "numeric_ids": [
+        "20721",
+        "5230060",
+        "21202",
+        "5230061",
+        "21805",
+        "5230062",
+        "24207",
+        "5230063"
+      ]
+    },
+    {
+      "related_product": "inte ändras\n## Behövs mer ström?\n\n\n![](_page_3_Picture_6",
+      "relation_type": "requires",
+      "numeric_ids": []
+    }
+  ]
+}

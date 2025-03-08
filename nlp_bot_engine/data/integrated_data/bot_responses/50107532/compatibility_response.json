@@ -1,0 +1,68 @@
+{
+    "product_id": "50107532",
+    "command": "-c",
+    "timestamp": "2025-03-05T23:53:41.384742",
+    "product_name": "V/P löser dina problem med spänningsfall",
+    "has_compatibility_info": true,
+    "compatibility_groups": {
+        "Passar till": [
+            {
+                "relation_type": "fits",
+                "related_product": "följande PSV-modeller |\n|---------|-------------|---------|-----------------------------------|\n| FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 |\n| FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 |\n| FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 |\n| FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 |\n\n## Spänningsfall i ledningsnätet?\n\n\n![](_page_3_Picture_1",
+                "numeric_ids": [
+                    "20721",
+                    "5230060",
+                    "21202",
+                    "5230061",
+                    "21805",
+                    "5230062",
+                    "24207",
+                    "5230063"
+                ],
+                "context": "med 3-5års livslängd och av högsta kvalitet. De är provade och certifierade av det Tyska provningslaboratoriet VdS. | Modell | Beskrivning | E-nr | Passar till följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](_page_3_Picture_1.jpeg) ![](_page_3_Picture_2.jpeg) • Lägg till PSU med ViP för att motverka spänningsfall • Kablage behöver inte ändras ## Behövs mer ström? ![](_",
+                "confidence": 0.8,
+                "source_text": "med 3-5års livslängd och av högsta kvalitet. De är provade och certifierade av det Tyska provningslaboratoriet VdS. | Modell | Beskrivning | E-nr | Passar till följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](_page_3_Picture_1.jpeg) ![](_page_3_Picture_2.jpeg) • Lägg till PSU med ViP för att motverka spänningsfall • Kablage behöver inte ändras ## Behövs mer ström? ![](_",
+                "source_location": "",
+                "extracted_method": "regex"
+            }
+        ],
+        "Kräver": [
+            {
+                "relation_type": "requires",
+                "related_product": "inte ändras\n## Behövs mer ström?\n\n\n![](_page_3_Picture_6",
+                "numeric_ids": [],
+                "context": "gsfall i ledningsnätet? ![](_page_3_Picture_1.jpeg) ![](_page_3_Picture_2.jpeg) • Lägg till PSU med ViP för att motverka spänningsfall • Kablage behöver inte ändras ## Behövs mer ström? ![](_page_3_Picture_6.jpeg) ![](_page_3_Picture_7.jpeg) ## Högre systemsäkerhet? ![](_page_3_Picture_9.jpeg) ![](_page_3_Picture_10.jpeg) försök, alla enheter ihopkop",
+                "confidence": 0.8,
+                "source_text": "gsfall i ledningsnätet? ![](_page_3_Picture_1.jpeg) ![](_page_3_Picture_2.jpeg) • Lägg till PSU med ViP för att motverka spänningsfall • Kablage behöver inte ändras ## Behövs mer ström? ![](_page_3_Picture_6.jpeg) ![](_page_3_Picture_7.jpeg) ## Högre systemsäkerhet? ![](_page_3_Picture_9.jpeg) ![](_page_3_Picture_10.jpeg) försök, alla enheter ihopkop",
+                "source_location": "",
+                "extracted_method": "regex"
+            }
+        ]
+    },
+    "related_products": [
+        {
+            "related_product_id": "20721",
+            "relation_type": "fits",
+            "name": "följande PSV-modeller |\n|---------|-------------|---------|-----------------------------------|\n| FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 |\n| FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 |\n| FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 |\n| FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 |\n\n## Spänningsfall i ledningsnätet?\n\n\n![](_page_3_Picture_1",
+            "numeric_ids": [
+                "20721",
+                "5230060",
+                "21202",
+                "5230061",
+                "21805",
+                "5230062",
+                "24207",
+                "5230063"
+            ],
+            "notes": "med 3-5års livslängd och av högsta kvalitet. De är provade och certifierade av det Tyska provningslaboratoriet VdS. | Modell | Beskrivning | E-nr | Passar till följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](_page_3_Picture_1.jpeg) ![](_page_3_Picture_2.jpeg) • Lägg till PSU med ViP för att motverka spänningsfall • Kablage behöver inte ändras ## Behövs mer ström? ![](_"
+        },
+        {
+            "related_product_id": null,
+            "relation_type": "requires",
+            "name": "inte ändras\n## Behövs mer ström?\n\n\n![](_page_3_Picture_6",
+            "numeric_ids": [],
+            "notes": "gsfall i ledningsnätet? ![](_page_3_Picture_1.jpeg) ![](_page_3_Picture_2.jpeg) • Lägg till PSU med ViP för att motverka spänningsfall • Kablage behöver inte ändras ## Behövs mer ström? ![](_page_3_Picture_6.jpeg) ![](_page_3_Picture_7.jpeg) ## Högre systemsäkerhet? ![](_page_3_Picture_9.jpeg) ![](_page_3_Picture_10.jpeg) försök, alla enheter ihopkop"
+        }
+    ],
+    "markdown_response": "# Kompatibilitetsinformation för V/P löser dina problem med spänningsfall\n\n**Artikelnummer:** 50107532\n\n## Passar till\n\n- följande PSV-modeller |\n|---------|-------------|---------|-----------------------------------|\n| FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 |\n| FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 |\n| FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 |\n| FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 |\n\n## Spänningsfall i ledningsnätet?\n\n\n![](_page_3_Picture_1 (Art.nr: 20721)\n\n## Kräver\n\n- inte ändras\n## Behövs mer ström?\n\n\n![](_page_3_Picture_6\n"
+}

@@ -1,0 +1,185 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Housegard fordonsh\u00e5llare till 6 kg pulversl\u00e4ckare, PEB6GE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.73486328125,
+          104.324951171875
+        ],
+        [
+          509.29443359375,
+          104.324951171875
+        ],
+        [
+          509.29443359375,
+          125.087158203125
+        ],
+        [
+          35.73486328125,
+          125.087158203125
+        ]
+      ]
+    },
+    {
+      "title": "Housegard fordonsh\u00e5llare till 6 kg pulversl\u00e4ckare, PEB6GE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.880126953125,
+          46.560791015625
+        ],
+        [
+          509.5849609375,
+          46.560791015625
+        ],
+        [
+          509.5849609375,
+          69.892578125
+        ],
+        [
+          35.880126953125,
+          69.892578125
+        ]
+      ]
+    },
+    {
+      "title": "Technical specifikation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.55328369140625,
+          95.3314208984375
+        ],
+        [
+          168.79638671875,
+          95.3314208984375
+        ],
+        [
+          168.79638671875,
+          111.108642578125
+        ],
+        [
+          35.55328369140625,
+          111.108642578125
+        ]
+      ]
+    },
+    {
+      "title": "Packaging information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.91644287109375,
+          273.19775390625
+        ],
+        [
+          167.34375,
+          273.19775390625
+        ],
+        [
+          167.34375,
+          289.23193359375
+        ],
+        [
+          35.91644287109375,
+          289.23193359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50025313_pro"
+}

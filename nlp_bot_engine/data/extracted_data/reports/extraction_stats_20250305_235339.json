@@ -1,0 +1,16 @@
+{
+  "total_files": 12,
+  "processed_files": 12,
+  "extracted_products": 12,
+  "products_with_identifiers": 8,
+  "products_with_specifications": 12,
+  "products_with_compatibility": 12,
+  "total_identifiers": 102,
+  "total_specifications": 134,
+  "total_compatibility": 28,
+  "errors": 0,
+  "warnings": 0,
+  "start_time": "2025-03-05T23:53:39.335381",
+  "end_time": "2025-03-05T23:53:41.363066",
+  "duration_seconds": 2.027685
+}

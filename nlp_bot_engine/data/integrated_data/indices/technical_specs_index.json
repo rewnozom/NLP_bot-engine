@@ -1,0 +1,968 @@
+{
+  "WEIGHT": [
+    {
+      "product_id": "50025313",
+      "spec": {
+        "category": "WEIGHT",
+        "name": "kg",
+        "raw_value": "6",
+        "unit": "GE",
+        "normalized_value": 6.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Housegard fordonshållare till 6 kg pulversläckare, PEB6GE\n\n\n!",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50025313"
+      }
+    },
+    {
+      "product_id": "50025313",
+      "spec": {
+        "category": "WEIGHT",
+        "name": "kg",
+        "raw_value": "26.05000",
+        "unit": "",
+        "normalized_value": 26.05,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Bruttovikt (kg) | 26.05000 | 332.60000 | 1.30000 |\n| Net Weight (kg) | 26.05000 | | 1.30000 |\n| Volym | 0.00000 | 0.00000 | 0.00246 |\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50025313"
+      }
+    },
+    {
+      "product_id": "50464764",
+      "spec": {
+        "category": "WEIGHT",
+        "name": "Vikt",
+        "raw_value": "113",
+        "unit": "",
+        "normalized_value": 113.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Vikt per<br>styck |",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50464764"
+      }
+    }
+  ],
+  "DIMENSIONS": [
+    {
+      "product_id": "50025313",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Längd",
+        "raw_value": "540.000",
+        "unit": "",
+        "normalized_value": 540.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Snro | 6411723 | |\n| Nobb-nr | 43131495 | |\n\n## **Packaging information**\n\n\n| | EXKRT | PALL | ST |\n|--------------------|----------|-----------|---------------|\n| EAN kod | | | 7320896000544 |\n| Längd (mm) | 540.000 | 1200.000 | 440.000 |\n| Höjd (mm) | 380.000 | 850.000 | 160.000 |\n| Bredd (mm) | 240.000 | 800.000 | 120.000 |\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50025313"
+      }
+    },
+    {
+      "product_id": "50025313",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Höjd",
+        "raw_value": "380.000",
+        "unit": "",
+        "normalized_value": 380.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Snro | 6411723 | |\n| Nobb-nr | 43131495 | |\n\n## **Packaging information**\n\n\n| | EXKRT | PALL | ST |\n|--------------------|----------|-----------|---------------|\n| EAN kod | | | 7320896000544 |\n| Längd (mm) | 540.000 | 1200.000 | 440.000 |\n| Höjd (mm) | 380.000 | 850.000 | 160.000 |\n| Bredd (mm) | 240.000 | 800.000 | 120.000 |\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50025313"
+      }
+    },
+    {
+      "product_id": "50025313",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Bredd",
+        "raw_value": "240.000",
+        "unit": "",
+        "normalized_value": 240.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Snro | 6411723 | |\n| Nobb-nr | 43131495 | |\n\n## **Packaging information**\n\n\n| | EXKRT | PALL | ST |\n|--------------------|----------|-----------|---------------|\n| EAN kod | | | 7320896000544 |\n| Längd (mm) | 540.000 | 1200.000 | 440.000 |\n| Höjd (mm) | 380.000 | 850.000 | 160.000 |\n| Bredd (mm) | 240.000 | 800.000 | 120.000 |\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50025313"
+      }
+    },
+    {
+      "product_id": "50464764",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Height",
+        "raw_value": "224 mm",
+        "unit": "mm",
+        "normalized_value": 224.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Höjd: 224 mm, bredd 438 mm, djup 212 mm | | |\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50464764"
+      }
+    },
+    {
+      "product_id": "50464764",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Height",
+        "raw_value": "438 mm",
+        "unit": "mm",
+        "normalized_value": 438.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Höjd: 224 mm, bredd 438 mm, djup 212 mm | | |\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50464764"
+      }
+    },
+    {
+      "product_id": "50464764",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Height",
+        "raw_value": "212 mm",
+        "unit": "mm",
+        "normalized_value": 212.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Höjd: 224 mm, bredd 438 mm, djup 212 mm | | |\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50464764"
+      }
+    },
+    {
+      "product_id": "50464764",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "197x165x170 mm",
+        "unit": "mm",
+        "normalized_value": 197.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Fabrikat |\n|----------------|----------|----------------------------------------------|--------------|----------------------------|-------------------|----------|\n| MT113-12V45-01 | 5230546 | UPLUS 12V 45Ah<br>10+ Design life<br>batteri | M6 Bult | 197x165x170 mm | 14,5 kg | UPLUS |\n\n•",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50464764"
+      }
+    },
+    {
+      "product_id": "50464764",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Mått",
+        "raw_value": "224",
+        "unit": "mm",
+        "normalized_value": 224.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Mått |",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50464764"
+      }
+    },
+    {
+      "product_id": "50464764",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Höjd",
+        "raw_value": "224",
+        "unit": "mm",
+        "normalized_value": 224.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Höjd: 224 mm, bredd 438 mm, djup 212 mm | | |\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50464764"
+      }
+    },
+    {
+      "product_id": "50464764",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "bredd",
+        "raw_value": "438",
+        "unit": "mm",
+        "normalized_value": 438.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Höjd: 224 mm, bredd 438 mm, djup 212 mm | | |\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50464764"
+      }
+    },
+    {
+      "product_id": "50464764",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "djup",
+        "raw_value": "212",
+        "unit": "mm",
+        "normalized_value": 212.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Höjd: 224 mm, bredd 438 mm, djup 212 mm | | |\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50464764"
+      }
+    },
+    {
+      "product_id": "50464764",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "djup",
+        "raw_value": "113",
+        "unit": "",
+        "normalized_value": 113.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Höjd, bredd,<br>djup |",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50464764"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "325x276x90 mm",
+        "unit": "mm",
+        "normalized_value": 325.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 325x276x90 mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "345x325x130 mm",
+        "unit": "mm",
+        "normalized_value": 345.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 345x325x130 mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "400x425x200 mm",
+        "unit": "mm",
+        "normalized_value": 400.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 400x425x200 mm",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "300x230x100mm",
+        "unit": "mm",
+        "normalized_value": 300.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 300x230x100mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "35 mm",
+        "unit": "mm",
+        "normalized_value": 35.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "[](_page_2_Picture_7.jpeg)\n\n• *Enhet med 40Ah batterier**\n\n#### **Kundstyrd design av strömförsörjningsutrustning**\n\n\nEfter kundens önskemål gör vi också strömförsörjningsenheter som har plats för kundens egen utrustning på 35 mm DIN-rail.\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "210x120x70mm",
+        "unit": "mm",
+        "normalized_value": 210.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 210x120x70mm.\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "325",
+        "unit": "x",
+        "normalized_value": 325.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 325x276x90 mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "345",
+        "unit": "x",
+        "normalized_value": 345.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 345x325x130 mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "400",
+        "unit": "x",
+        "normalized_value": 400.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 400x425x200 mm",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "300",
+        "unit": "x",
+        "normalized_value": 300.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 300x230x100mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "122",
+        "unit": "",
+        "normalized_value": 122.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Model | Beskrivning | Storlek<br>(BxHxD mm) |\n|------------|-----------------------------|-----------------------|\n| Box",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "210",
+        "unit": "x",
+        "normalized_value": 210.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 210x120x70mm.\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "325x276x90 mm",
+        "unit": "mm",
+        "normalized_value": 325.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 325x276x90 mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "345x325x130 mm",
+        "unit": "mm",
+        "normalized_value": 345.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 345x325x130 mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "400x425x200 mm",
+        "unit": "mm",
+        "normalized_value": 400.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 400x425x200 mm",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "300x230x100mm",
+        "unit": "mm",
+        "normalized_value": 300.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 300x230x100mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "35 mm",
+        "unit": "mm",
+        "normalized_value": 35.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "[](_page_2_Picture_7.jpeg)\n\n• *Enhet med 40Ah batterier**\n\n#### **Kundstyrd design av strömförsörjningsutrustning**\n\n\nEfter kundens önskemål gör vi också strömförsörjningsenheter som har plats för kundens egen utrustning på 35 mm DIN-rail.\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "210x120x70mm",
+        "unit": "mm",
+        "normalized_value": 210.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 210x120x70mm.\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "325",
+        "unit": "x",
+        "normalized_value": 325.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 325x276x90 mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "345",
+        "unit": "x",
+        "normalized_value": 345.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 345x325x130 mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "400",
+        "unit": "x",
+        "normalized_value": 400.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 400x425x200 mm",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "300",
+        "unit": "x",
+        "normalized_value": 300.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 300x230x100mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "122",
+        "unit": "",
+        "normalized_value": 122.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Model | Beskrivning | Storlek<br>(BxHxD mm) |\n|------------|-----------------------------|-----------------------|\n| Box",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "210",
+        "unit": "x",
+        "normalized_value": 210.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 210x120x70mm.\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "325x276x90 mm",
+        "unit": "mm",
+        "normalized_value": 325.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 325x276x90 mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "345x325x130 mm",
+        "unit": "mm",
+        "normalized_value": 345.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 345x325x130 mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "400x425x200 mm",
+        "unit": "mm",
+        "normalized_value": 400.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 400x425x200 mm",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "300x230x100mm",
+        "unit": "mm",
+        "normalized_value": 300.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 300x230x100mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "35 mm",
+        "unit": "mm",
+        "normalized_value": 35.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "[](_page_2_Picture_7.jpeg)\n\n• *Enhet med 40Ah batterier**\n\n#### **Kundstyrd design av strömförsörjningsutrustning**\n\n\nEfter kundens önskemål gör vi också strömförsörjningsenheter som har plats för kundens egen utrustning på 35 mm DIN-rail.\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Dimension",
+        "raw_value": "210x120x70mm",
+        "unit": "mm",
+        "normalized_value": 210.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 210x120x70mm.\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_entity",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "325",
+        "unit": "x",
+        "normalized_value": 325.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 325x276x90 mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "345",
+        "unit": "x",
+        "normalized_value": 345.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 345x325x130 mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "400",
+        "unit": "x",
+        "normalized_value": 400.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 400x425x200 mm",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "300",
+        "unit": "x",
+        "normalized_value": 300.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 300x230x100mm\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "122",
+        "unit": "",
+        "normalized_value": 122.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Model | Beskrivning | Storlek<br>(BxHxD mm) |\n|------------|-----------------------------|-----------------------|\n| Box",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "DIMENSIONS",
+        "name": "Storlek",
+        "raw_value": "210",
+        "unit": "x",
+        "normalized_value": 210.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "Storlek (BxHxD) 210x120x70mm.\n\n|",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107532"
+      }
+    }
+  ],
+  "ELECTRICAL": [
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "ELECTRICAL",
+        "name": "Volt",
+        "raw_value": "2",
+        "unit": "st",
+        "normalized_value": 2.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "*Enheter för 24 Volt med plats för 2 st.",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "ELECTRICAL",
+        "name": "Volt",
+        "raw_value": "1",
+        "unit": "st",
+        "normalized_value": 1.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "*Enheter för 12 Volt med plats för 1st 18Ah batteri**\n\n\nUtspänning 13,8V i vit metallåda med plats för 1st blyackumulator 12V/18Ah.",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50108133",
+      "spec": {
+        "category": "ELECTRICAL",
+        "name": "Volt",
+        "raw_value": "27,6",
+        "unit": "V",
+        "normalized_value": 27.6,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "*Enheter för 24 Volt**\n\nUtspänning 27,6 V i vit metallåda\n\nStorlek (BxHxD)",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50108133"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "ELECTRICAL",
+        "name": "Volt",
+        "raw_value": "2",
+        "unit": "st",
+        "normalized_value": 2.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "*Enheter för 24 Volt med plats för 2 st.",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "ELECTRICAL",
+        "name": "Volt",
+        "raw_value": "1",
+        "unit": "st",
+        "normalized_value": 1.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "*Enheter för 12 Volt med plats för 1st 18Ah batteri**\n\n\nUtspänning 13,8V i vit metallåda med plats för 1st blyackumulator 12V/18Ah.",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107533",
+      "spec": {
+        "category": "ELECTRICAL",
+        "name": "Volt",
+        "raw_value": "27,6",
+        "unit": "V",
+        "normalized_value": 27.6,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "*Enheter för 24 Volt**\n\nUtspänning 27,6 V i vit metallåda\n\nStorlek (BxHxD)",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107533"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "ELECTRICAL",
+        "name": "Volt",
+        "raw_value": "2",
+        "unit": "st",
+        "normalized_value": 2.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "*Enheter för 24 Volt med plats för 2 st.",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "ELECTRICAL",
+        "name": "Volt",
+        "raw_value": "1",
+        "unit": "st",
+        "normalized_value": 1.0,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "*Enheter för 12 Volt med plats för 1st 18Ah batteri**\n\n\nUtspänning 13,8V i vit metallåda med plats för 1st blyackumulator 12V/18Ah.",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107532"
+      }
+    },
+    {
+      "product_id": "50107532",
+      "spec": {
+        "category": "ELECTRICAL",
+        "name": "Volt",
+        "raw_value": "27,6",
+        "unit": "V",
+        "normalized_value": 27.6,
+        "confidence": 0.85,
+        "importance": "normal",
+        "source_text": "*Enheter för 24 Volt**\n\nUtspänning 27,6 V i vit metallåda\n\nStorlek (BxHxD)",
+        "source_location": "",
+        "extracted_method": "nlp_phrase_matcher",
+        "product_id": "50107532"
+      }
+    }
+  ]
+}
